@@ -27,7 +27,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raicox&hide_progress=true&theme=radical)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raicox&theme=neon)](https://git.io/streak-stats)
