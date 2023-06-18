@@ -29,7 +29,7 @@
 
 <br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raicox&theme=neon&locale=es&card_width=496)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raicox&theme=neon)](https://git.io/streak-stats)
 
 <br/>
 
