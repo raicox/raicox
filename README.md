@@ -1,6 +1,5 @@
+![imagen](https://github.com/raicox/raicox/assets/130390433/9202e734-7ebb-4d8c-ba06-39b469565548)
 
-
-<h2> Hey There! I'm Steven. 👋</h2> 
 
 <h3> 👨🏻‍💻 &nbsp;About me </h3>
 
