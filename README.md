@@ -1,16 +1,16 @@
 
 
-<h2> Hola a Todos! Soy Steven. 👋</h2> 
+<h2> Hey There! I'm Steven. 👋</h2> 
 
-<h3> 👨🏻‍💻 &nbsp;Acerca de mi </h3>
+<h3> 👨🏻‍💻 &nbsp;About me </h3>
 
-- 🤔 &nbsp; Explorando nuevas tecnologías y desarrollo de soluciones informáticas.
-- 🎓 &nbsp; Profesional en Marketing y Desarrollador Web de manera autodidacta.
-- 💼 &nbsp; Trabajando como freelance.
-- 🌱 &nbsp; Fortaleciendo mis conocimientos en React y JavaScript.
-- ✍️ &nbsp; Diseño gráfico como aficion/actividad secundaria.
+- 🤔 &nbsp; Exploring new technologies and development of IT solutions.
+- 🎓 &nbsp; Self-taught Web Developer and Marketing Professional.
+- 💼 &nbsp; Freelancing.
+- 🌱 &nbsp; Knowledge in React and JavaScript.
+- ✍️ &nbsp; Graphic design as a hobby/sideline.
 
-<h3> 🛠 &nbsp;Tecnologías</h3>
+<h3> 🛠 &nbsp;Tech</h3>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
