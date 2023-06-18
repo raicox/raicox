@@ -28,12 +28,11 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raicox&show_icons=true&locale=en&layout=compact" alt="raicox" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raicox&theme=neon)](https://git.io/streak-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raicox&show_icons=true&locale=en&layout=compact" alt="raicox"  width="420px"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raicox&show_icons=true&locale=en" alt="raicox" /></p>
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raicox&theme=neon)](https://git.io/streak-stats)
 
 <br/>
 
