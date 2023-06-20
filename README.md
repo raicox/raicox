@@ -38,7 +38,7 @@
 <a href="https://raicox.github.io/steven-portafolio/"><img alt="Website" src="https://img.shields.io/badge/Website-StevenRodriguez-purple?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/steven-rodríguez-5b5ab822b//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Steven%20Rodriguez-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/joanstevenrr/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-joanstevenrr-red?style=flat-square&logo=instagram"></a>
-<a href="jsrodriguez049@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jsrodriguez049@gmail.com-green?style=flat-square&logo=gmail"></a>
+<img alt="Email" src="https://img.shields.io/badge/Email-jsrodriguez049@gmail.com-green?style=flat-square&logo=gmail">
 </p>
 
 
